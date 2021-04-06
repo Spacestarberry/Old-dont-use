@@ -23,7 +23,7 @@
     "gridWidth": 70,
     "snap": true,
     "windowMask": true,
-    "zoomFactor": 0.5219999999999998
+    "zoomFactor": 0.6019999999999999
   },
   "objectsGroups": [
     {
@@ -654,8 +654,8 @@
       "name": "RedFlower",
       "persistentUuid": "b0d28fa5-a7d5-401b-927d-91197ae180c4",
       "width": 148,
-      "x": 715,
-      "y": 416,
+      "x": 706,
+      "y": 398,
       "zOrder": 32,
       "numberProperties": [],
       "stringProperties": [],
